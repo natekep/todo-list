@@ -22,6 +22,7 @@ todo-list/
 
 ### 1. Clone the Repo
 git clone https://github.com/natekep/todo-list.git
+
 cd todo_list
 
 ### 2. Install Dependencies
@@ -29,4 +30,5 @@ pip install flask
 
 ### 3. Run the App
 python app.py
+
 Then open your browser to http://127.0.0.1:5000
